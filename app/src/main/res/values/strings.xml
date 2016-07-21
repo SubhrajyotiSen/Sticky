@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sticky</string>
+    <string name="type_something">Type something</string>
+    <string name="go">Go</string>
+    <string name="confirmation_title">Have you completed this task?</string>
+    <string name="yes_text">Yes</string>
+    <string name="no_text">No</string>
+    <string name="empty_toast">Please enter a non-empty text</string>
+    <string name="notification_title">Sticky</string>
+    <string name="make_sticky_note">Make sticky note</string>
+</resources>
